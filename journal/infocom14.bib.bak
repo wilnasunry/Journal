@@ -1,0 +1,229 @@
+@inproceedings{Bejerano:2004,
+ author = {Bejerano, Yigal and Han, Seung-Jae and Li, Li (Erran)},
+ title = {Fairness and load balancing in wireless LANs using association control},
+ booktitle = {Proceedings of the 10th annual international conference on Mobile computing and networking},
+ series = {MobiCom '04},
+ year = {2004},
+ isbn = {1-58113-868-7},
+ location = {Philadelphia, PA, USA},
+ pages = {315--329},
+ numpages = {15},
+ url = {http://doi.acm.org/10.1145/1023720.1023751},
+ doi = {10.1145/1023720.1023751},
+ acmid = {1023751},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {IEEE 802.11, approximation algorithms, load balancing, max-min fairness, wireless local area networks (WLAN)},
+}
+
+@INPROCEEDINGS{Li:2008,
+AUTHOR = "Erran Li, Li and Martin, Pal and Yang Richard, Yang",
+TITLE = "Proportional Fairness in Multi-Rate Wireless LANs",
+BOOKTITLE = "INFOCOM'08",
+PAGES = {1004-1012},
+YEAR = {2008},
+}
+
+
+@inproceedings{Ekici:2006,
+ author = {Ekici, Ozgur and Yongacoglu, Abbas},
+ title = {A novel association algorithm for congestion relief in IEEE 802.11 WLANs},
+ booktitle = {Proceedings of the 2006 international conference on Wireless communications and mobile computing},
+ series = {IWCMC '06},
+ year = {2006},
+ isbn = {1-59593-306-9},
+ location = {Vancouver, British Columbia, Canada},
+ pages = {725--730},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/1143549.1143694},
+ doi = {10.1145/1143549.1143694},
+ acmid = {1143694},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {IEEE 802.11, hot-spot, load balance},
+}
+
+@inproceedings{Abusubaih:2007,
+ author = {Abusubaih, Murad and Wolisz, Adam},
+ title = {An optimal station association policy for multi-rate ieee 802.11 wireless lans},
+ booktitle = {Proceedings of the 10th ACM Symposium on Modeling, analysis, and simulation of wireless and mobile systems},
+ series = {MSWiM '07},
+ year = {2007},
+ isbn = {978-1-59593-851-0},
+ location = {Chania, Crete Island, Greece},
+ pages = {117--123},
+ numpages = {7},
+ url = {http://doi.acm.org/10.1145/1298126.1298148},
+ doi = {10.1145/1298126.1298148},
+ acmid = {1298148},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {IEEE 802.11, access point selection, association, wlans},
+}
+
+@inproceedings{Yen:2011,
+ author = {Yen, Li-Hsing and Li, Jia-Jun and Lin, Che-Ming},
+ title = {Stability and Fairness of AP Selection Game in IEEE 802.11 Access Networks},
+ booktitle = {IEEE Transaction on Vehicular Technology},
+ series = {TON'11},
+ year = {2011},
+ pages = {1150--1160},
+ numpages = {10},
+ publisher = {IEEE},
+}
+
+@INPROCEEDINGS{Keranidis:2011,
+AUTHOR = "Stratos Keranidis and Thanasis Korakis and Iordanis Koutsopoulos and Leandros Tassiulas",
+TITLE = "Contention and traffic load-aware association in IEEE 802.11 WLANs: Algorithms and implementation",
+BOOKTITLE = "WiOpt'11",
+PAGES = {334-341},
+YEAR = {2011},
+publisher = {IEEE},
+}
+
+@article{Mehta:2007,
+ author = {Mehta, Aranyak and Saberi, Amin and Vazirani, Umesh and Vazirani, Vijay},
+ title = {AdWords and generalized online matching},
+ journal = {J. ACM},
+ issue_date = {October 2007},
+ volume = {54},
+ number = {5},
+ month = oct,
+ year = {2007},
+ issn = {0004-5411},
+ articleno = {22},
+ url = {http://doi.acm.org/10.1145/1284320.1284321},
+ doi = {10.1145/1284320.1284321},
+ acmid = {1284321},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Keyword auctions, online algorithms, search engines},
+}
+
+@article{Lei:2009,
+ author = { Lei,Xie and  Qun, Li and  Weizhen, Mao and  Jie,Wu and  Daoxu,Chen},
+ title = {Achieving Efficiency and Fairness for Association Control in Vehicular Networks},
+ issue_date = {October 2009},
+ month = oct,
+ year = {2009},
+ publisher = {IEEE},
+ BOOKTITLE = {17th IEEE International Conference on Network Protocols },
+ pages = {324 - 333},
+}
+
+@inproceedings{Papaoulakis:2008,
+ author = {Papaoulakis, Nikolaos and Patrikakis, Charalampos Z.},
+ title = {A proactive, terminal based best Access Point Selection Mechanism for Wirless LANs},
+ booktitle = {IEEE GLOBECOM WORKSHOPS},
+ series = {GLOBECOM '08},
+ year = {2008},
+ isbn = {978-1-4244-3062-1},
+ location = {New Orleans, LO},
+ publisher = {IEEE},
+}
+
+@article{Ni:2004,
+ author = {Ni, Qiang and Romdhani, Lamia and Turletti, Thierry},
+ title = {A survey of QoS enhancements for IEEE 802.11 wireless LAN: Research Articles},
+ journal = {Wirel. Commun. Mob. Comput.},
+ issue_date = {August 2004},
+ volume = {4},
+ number = {5},
+ month = aug,
+ year = {2004},
+ issn = {1530-8669},
+ pages = {547--566},
+ numpages = {20},
+ url = {http://dx.doi.org/10.1002/wcm.v4:5},
+ doi = {10.1002/wcm.v4:5},
+ acmid = {1072157},
+ publisher = {John Wiley and Sons Ltd.},
+ address = {Chichester, UK},
+ keywords = {IEEE 802.11, IEEE 802.11e, distributed coordination function (DCF), hybrid coordination function (HCF), medium access control (MAC), point coordination function (PCF), quality-of-service (QoS)},
+}
+
+@article{madwifi:09,
+ title = {Multiband Atheros Driver for Wifi},
+ url = {http://www.madwifi.org},
+}
+
+@inproceedings{le2012maximizing,
+  title={Maximizing throughput when achieving time fairness in multi-rate wireless LANs},
+  author={Le, Yuan and Ma, Liran and Cheng, Wei and Cheng, Xiuzhen and Chen, Biao},
+  booktitle={INFOCOM, 2012 Proceedings IEEE},
+  pages={2911--2915},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{li2012ap,
+  title={AP Association for Proportional Fairness in Multirate WLANs},
+  author={Li, Wei and Wang, Shengling and Cui, Yong and Cheng, Xiuzhen and Xin, Ran and Al-Rodhaan, Mznah A and Al-Dhelaan, Abdullah},
+  journal={IEEE/ACM Transactions on Networking (TON)},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{kim2012distributed,
+  title={Distributed $\alpha$-optimal user association and cell load balancing in wireless networks},
+  author={Kim, Hongseok and De Veciana, Gustavo and Yang, Xiangying and Venkatachalam, Muthaiah},
+  journal={IEEE/ACM Transactions on Networking (TON)},
+  volume={20},
+  number={1},
+  pages={177--190},
+  year={2012},
+  publisher={IEEE Press}
+}
+
+@inproceedings{he2010design,
+  title={Design and Implementation of CLASS: A Cross-Layer Association Scheme for Wireless Mesh Networks},
+  author={He, Yan and Perkins, D and Velaga, S},
+  booktitle={INFOCOM IEEE Conference on Computer Communications Workshops, 2010},
+  pages={1--6},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{kim2010alpha,
+  title={Alpha-optimal user association and cell load balancing in wireless networks},
+  author={Kim, Hongseok and De Veciana, Gustavo and Yang, Xiangying and Venkatachalam, Muthaiah},
+  booktitle={INFOCOM, 2010 Proceedings IEEE},
+  pages={1--5},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{gong2012ap,
+  title={AP association in 802.11 n WLANs with heterogeneous clients},
+  author={Gong, Dawei and Yang, Yuanyuan},
+  booktitle={INFOCOM, 2012 Proceedings IEEE},
+  pages={1440--1448},
+  year={2012},
+  organization={IEEE}
+}
+@inproceedings{li2012optimal,
+  title={On the optimal mobile association in heterogeneous wireless relay networks},
+  author={Li, Qian and Hu, Rose Qingyang and Wu, Geng and Qian, Yi},
+  booktitle={INFOCOM, 2012 Proceedings IEEE},
+  pages={1359--1367},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{nassiri2008novel,
+  title={A novel access method for supporting absolute and proportional priorities in 802.11 WLANs},
+  author={Nassiri, Mohammad and Heusse, Martin and Duda, Andrzej},
+  booktitle={INFOCOM 2008. The 27th Conference on Computer Communications. IEEE},
+  pages={709--717},
+  year={2008},
+  organization={IEEE}
+}
+
+@inproceedings{bredel2009understanding,
+  title={Understanding fairness and its impact on quality of service in IEEE 802.11},
+  author={Bredel, Michael and Fidler, Markus},
+  booktitle={INFOCOM 2009, IEEE},
+  pages={1098--1106},
+  year={2009},
+  organization={IEEE}
+}

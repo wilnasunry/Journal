@@ -1,0 +1,17 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Infocom2014V3.aux
+The style file: IEEETran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: infocom14.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Lei:2009
+Warning--empty author in MATLAB
+Warning--empty journal in MATLAB
+Warning--empty year in MATLAB
+Warning--empty author in madwifi
+Warning--empty journal in madwifi
+Warning--empty year in madwifi
+
+Done.
+(There were 7 warnings)

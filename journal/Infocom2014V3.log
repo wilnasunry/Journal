@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.3)  19 JUL 2017 14:51
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.3)  19 JUL 2017 15:28
 entering extended mode
 **Infocom2014V3.tex
-(C:\Users\dllgs\Desktop\Infocom2014_V3\Infocom2014V3.tex
+(C:\Users\dllgs\Documents\GitHub\Journal\journal\Infocom2014V3.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(C:\Users\dllgs\Desktop\Infocom2014_V3\IEEEtran.cls
+(C:\Users\dllgs\Documents\GitHub\Journal\journal\IEEEtran.cls
 Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -344,7 +344,7 @@ G,.JBIG2,.JB2,.eps]
 \c@lemma=\count122
 \ieeealgbox=\box36
 
-(C:\Users\dllgs\Desktop\Infocom2014_V3\Infocom2014V3.aux)
+(C:\Users\dllgs\Documents\GitHub\Journal\journal\Infocom2014V3.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
 LaTeX Font Info:    ... okay on input line 68.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
@@ -404,8 +404,8 @@ File: Three_parts-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Three_parts-eps-converted-to.pdf used on input line 27
 5.
 (pdftex.def)             Requested size: 206.39685pt x 93.60669pt.
- [3 <C:/Users/dllgs/Desktop/Infocom2014_V3/Three_parts-eps-converted-to.pdf>] [
-4]
+ [3 <C:/Users/dllgs/Documents/GitHub/Journal/journal/Three_parts-eps-converted-
+to.pdf>] [4]
 Package epstopdf Info: Source file: <analysis.eps>
 (epstopdf)                    date: 2013-07-11 08:57:10
 (epstopdf)                    size: 1685518 bytes
@@ -433,8 +433,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 413--414
 []\OT1/ptm/m/n/10 The com-pet-i-tive ra-tio of \OT1/ptm/m/sc/10 Simplified-
  []
 
-[5 <C:/Users/dllgs/Desktop/Infocom2014_V3/analysis-eps-converted-to.pdf>]
-[6]
+[5 <C:/Users/dllgs/Documents/GitHub/Journal/journal/analysis-eps-converted-to.p
+df>] [6]
 Package epstopdf Info: Source file: <Topology_Dynamic.eps>
 (epstopdf)                    date: 2013-07-11 08:57:08
 (epstopdf)                    size: 290072 bytes
@@ -445,7 +445,8 @@ Package epstopdf Info: Source file: <Topology_Dynamic.eps>
 ted-to.pdf Topology_Dynamic.eps>
 (epstopdf)             \includegraphics on input line 618.
 Package epstopdf Info: Output file is already uptodate.
- <Topology_Dynamic-eps-converted-to.pdf, id=91, 324.21124pt x 324.21124pt>
+
+<Topology_Dynamic-eps-converted-to.pdf, id=91, 324.21124pt x 324.21124pt>
 File: Topology_Dynamic-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Topology_Dynamic-eps-converted-to.pdf>
@@ -564,19 +565,19 @@ File: Competitive_Ratio-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Competitive_Ratio-eps-converted-to.pdf used on input l
 ine 643.
 (pdftex.def)             Requested size: 206.39685pt x 155.42622pt.
- [7 <C:/Users/dllgs/Desktop/Infocom2014_V3/Topology_Dynamic-eps-converted-to.pd
-f> <C:/Users/dllgs/Desktop/Infocom2014_V3/Topology_Static-eps-converted-to.pdf>
-]
+ [7 <C:/Users/dllgs/Documents/GitHub/Journal/journal/Topology_Dynamic-eps-conve
+rted-to.pdf> <C:/Users/dllgs/Documents/GitHub/Journal/journal/Topology_Static-e
+ps-converted-to.pdf>]
 Underfull \vbox (badness 1005) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <C:/Users/dllgs/Desktop/Infocom2014_V3/Network_Traffic_Requested-eps-conver
-ted-to.pdf> <C:/Users/dllgs/Desktop/Infocom2014_V3/Network_Traffic_Dynamic-eps-
-converted-to.pdf> <C:/Users/dllgs/Desktop/Infocom2014_V3/Network_Traffic_AP_ALG
--eps-converted-to.pdf> <C:/Users/dllgs/Desktop/Infocom2014_V3/Network_Traffic_A
-P_LAB-eps-converted-to.pdf>]
+ [8 <C:/Users/dllgs/Documents/GitHub/Journal/journal/Network_Traffic_Requested-
+eps-converted-to.pdf> <C:/Users/dllgs/Documents/GitHub/Journal/journal/Network_
+Traffic_Dynamic-eps-converted-to.pdf> <C:/Users/dllgs/Documents/GitHub/Journal/
+journal/Network_Traffic_AP_ALG-eps-converted-to.pdf> <C:/Users/dllgs/Documents/
+GitHub/Journal/journal/Network_Traffic_AP_LAB-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <topology_testbed.eps>
 (epstopdf)                    date: 2013-07-22 14:42:23
 (epstopdf)                    size: 297782 bytes
@@ -618,10 +619,11 @@ File: testbed-eps-converted-to.pdf Graphic file (type pdf)
 <use testbed-eps-converted-to.pdf>
 Package pdftex.def Info: testbed-eps-converted-to.pdf used on input line 667.
 (pdftex.def)             Requested size: 206.39685pt x 155.24376pt.
- [9 <C:/Users/dllgs/Desktop/Infocom2014_V3/Competitive_Ratio-eps-converted-to.p
-df> <C:/Users/dllgs/Desktop/Infocom2014_V3/topology_testbed-eps-converted-to.pd
-f> <C:/Users/dllgs/Desktop/Infocom2014_V3/testbed-eps-converted-to.pdf>]
-(C:\Users\dllgs\Desktop\Infocom2014_V3\Infocom2014V3.bbl)
+ [9 <C:/Users/dllgs/Documents/GitHub/Journal/journal/Competitive_Ratio-eps-conv
+erted-to.pdf> <C:/Users/dllgs/Documents/GitHub/Journal/journal/topology_testbed
+-eps-converted-to.pdf> <C:/Users/dllgs/Documents/GitHub/Journal/journal/testbed
+-eps-converted-to.pdf>]
+(C:\Users\dllgs\Documents\GitHub\Journal\journal\Infocom2014V3.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -635,35 +637,35 @@ Before submitting the final camera ready copy, remember to:
 
 [10
 
-] (C:\Users\dllgs\Desktop\Infocom2014_V3\Infocom2014V3.aux) ) 
+] (C:\Users\dllgs\Documents\GitHub\Journal\journal\Infocom2014V3.aux) ) 
 Here is how much of TeX's memory you used:
  3874 strings out of 495354
- 55809 string characters out of 3183860
+ 55919 string characters out of 3183860
  129558 words of memory out of 3000000
  6936 multiletter control sequences out of 15000+200000
  47637 words of font info for 96 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
  42i,18n,24p,1317b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/CTEX/MiKTeX/fo
-nts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-ex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/CTEX/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb
-><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmmib10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb>
-<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/CTEX/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/CTEX/
-MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/u
-tmbi8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fon
-ts/type1/urw/times/utmri8a.pfb>
-Output written on Infocom2014V3.pdf (10 pages, 813330 bytes).
+{C:/CTEX
+/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmib10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/c
+mmib7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C
+:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/u
+rw/times/utmbi8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/
+MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Infocom2014V3.pdf (10 pages, 813434 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

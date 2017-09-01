@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.3)  31 AUG 2017 11:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.3)  1 SEP 2017 11:07
 entering extended mode
 **Infocom2014V3.tex
 (C:\Users\dllgs\Documents\GitHub\Journal\journal\Infocom2014V3.tex
@@ -373,19 +373,22 @@ LaTeX Font Info:    ... okay on input line 68.
 \everyMPtoPDFconversion=\toks26
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 147.
+(Font)              <9> on input line 148.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 147.
+(Font)              <6> on input line 148.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 147.
+(Font)              <5> on input line 148.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 186.
+(Font)              <7> on input line 187.
+
+Underfull \vbox (badness 1968) has occurred while \output is active []
+
  [1{C:/CTEX/UserData/pdftex/config/pdftex.map}
 
 
 ] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 237.
+(Font)              <8> on input line 238.
 Package epstopdf Info: Source file: <Three_parts.eps>
 (epstopdf)                    date: 2013-07-25 11:27:51
 (epstopdf)                    size: 56085 bytes
@@ -394,7 +397,7 @@ Package epstopdf Info: Source file: <Three_parts.eps>
 (epstopdf)                    size: 21892 bytes
 (epstopdf)             Command: <epstopdf --outfile=Three_parts-eps-converted-t
 o.pdf Three_parts.eps>
-(epstopdf)             \includegraphics on input line 275.
+(epstopdf)             \includegraphics on input line 276.
 Package epstopdf Info: Output file is already uptodate.
 
 <Three_parts-eps-converted-to.pdf, id=19, 918.43124pt x 416.55624pt>
@@ -402,7 +405,7 @@ File: Three_parts-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Three_parts-eps-converted-to.pdf>
 Package pdftex.def Info: Three_parts-eps-converted-to.pdf used on input line 27
-5.
+6.
 (pdftex.def)             Requested size: 206.39685pt x 93.60669pt.
  [3 <C:/Users/dllgs/Documents/GitHub/Journal/journal/Three_parts-eps-converted-
 to.pdf>] [4]
@@ -414,22 +417,22 @@ Package epstopdf Info: Source file: <analysis.eps>
 (epstopdf)                    size: 40751 bytes
 (epstopdf)             Command: <epstopdf --outfile=analysis-eps-converted-to.p
 df analysis.eps>
-(epstopdf)             \includegraphics on input line 363.
+(epstopdf)             \includegraphics on input line 364.
 Package epstopdf Info: Output file is already uptodate.
 
 <analysis-eps-converted-to.pdf, id=39, 607.26875pt x 372.39125pt>
 File: analysis-eps-converted-to.pdf Graphic file (type pdf)
 
 <use analysis-eps-converted-to.pdf>
-Package pdftex.def Info: analysis-eps-converted-to.pdf used on input line 363.
+Package pdftex.def Info: analysis-eps-converted-to.pdf used on input line 364.
 (pdftex.def)             Requested size: 206.39685pt x 126.56589pt.
 
-Overfull \hbox (1.02194pt too wide) in alignment at lines 382--385
+Overfull \hbox (1.02194pt too wide) in alignment at lines 383--386
  [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
 []\OT1/ptm/m/n/10 The com-pet-i-tive ra-tio of \OT1/ptm/m/sc/10 Simplified-
  []
 
@@ -443,7 +446,7 @@ Package epstopdf Info: Source file: <Topology_Dynamic.eps>
 (epstopdf)                    size: 29406 bytes
 (epstopdf)             Command: <epstopdf --outfile=Topology_Dynamic-eps-conver
 ted-to.pdf Topology_Dynamic.eps>
-(epstopdf)             \includegraphics on input line 618.
+(epstopdf)             \includegraphics on input line 619.
 Package epstopdf Info: Output file is already uptodate.
 
 <Topology_Dynamic-eps-converted-to.pdf, id=91, 324.21124pt x 324.21124pt>
@@ -451,7 +454,7 @@ File: Topology_Dynamic-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Topology_Dynamic-eps-converted-to.pdf>
 Package pdftex.def Info: Topology_Dynamic-eps-converted-to.pdf used on input li
-ne 618.
+ne 619.
 (pdftex.def)             Requested size: 154.80157pt x 154.80336pt.
 Package epstopdf Info: Source file: <Network_Traffic_Requested.eps>
 (epstopdf)                    date: 2013-07-11 08:57:08
@@ -462,7 +465,7 @@ Package epstopdf Info: Source file: <Network_Traffic_Requested.eps>
 (epstopdf)                    size: 4545 bytes
 (epstopdf)             Command: <epstopdf --outfile=Network_Traffic_Requested-e
 ps-converted-to.pdf Network_Traffic_Requested.eps>
-(epstopdf)             \includegraphics on input line 625.
+(epstopdf)             \includegraphics on input line 626.
 Package epstopdf Info: Output file is already uptodate.
 
 <Network_Traffic_Requested-eps-converted-to.pdf, id=92, 410.53375pt x 309.155pt
@@ -470,7 +473,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: Network_Traffic_Requested-eps-converted-to.pdf Graphic file (type pdf)
  <use Network_Traffic_Requested-eps-converted-to.pdf>
 Package pdftex.def Info: Network_Traffic_Requested-eps-converted-to.pdf used on
- input line 625.
+ input line 626.
 (pdftex.def)             Requested size: 180.60315pt x 136.0003pt.
 Package epstopdf Info: Source file: <Network_Traffic_Dynamic.eps>
 (epstopdf)                    date: 2013-07-11 08:57:08
@@ -481,7 +484,7 @@ df>
 (epstopdf)                    size: 6315 bytes
 (epstopdf)             Command: <epstopdf --outfile=Network_Traffic_Dynamic-eps
 -converted-to.pdf Network_Traffic_Dynamic.eps>
-(epstopdf)             \includegraphics on input line 627.
+(epstopdf)             \includegraphics on input line 628.
 Package epstopdf Info: Output file is already uptodate.
 
 <Network_Traffic_Dynamic-eps-converted-to.pdf, id=93, 410.53375pt x 309.155pt>
@@ -489,7 +492,7 @@ File: Network_Traffic_Dynamic-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Network_Traffic_Dynamic-eps-converted-to.pdf>
 Package pdftex.def Info: Network_Traffic_Dynamic-eps-converted-to.pdf used on i
-nput line 627.
+nput line 628.
 (pdftex.def)             Requested size: 180.60315pt x 136.0003pt.
 Package epstopdf Info: Source file: <Network_Traffic_AP_ALG.eps>
 (epstopdf)                    date: 2013-07-11 08:57:08
@@ -500,7 +503,7 @@ f>
 (epstopdf)                    size: 16700 bytes
 (epstopdf)             Command: <epstopdf --outfile=Network_Traffic_AP_ALG-eps-
 converted-to.pdf Network_Traffic_AP_ALG.eps>
-(epstopdf)             \includegraphics on input line 629.
+(epstopdf)             \includegraphics on input line 630.
 Package epstopdf Info: Output file is already uptodate.
 
 <Network_Traffic_AP_ALG-eps-converted-to.pdf, id=94, 410.53375pt x 309.155pt>
@@ -508,7 +511,7 @@ File: Network_Traffic_AP_ALG-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Network_Traffic_AP_ALG-eps-converted-to.pdf>
 Package pdftex.def Info: Network_Traffic_AP_ALG-eps-converted-to.pdf used on in
-put line 629.
+put line 630.
 (pdftex.def)             Requested size: 180.60315pt x 136.0003pt.
 Package epstopdf Info: Source file: <Network_Traffic_AP_LAB.eps>
 (epstopdf)                    date: 2013-07-11 08:57:08
@@ -519,7 +522,7 @@ f>
 (epstopdf)                    size: 16207 bytes
 (epstopdf)             Command: <epstopdf --outfile=Network_Traffic_AP_LAB-eps-
 converted-to.pdf Network_Traffic_AP_LAB.eps>
-(epstopdf)             \includegraphics on input line 631.
+(epstopdf)             \includegraphics on input line 632.
 Package epstopdf Info: Output file is already uptodate.
 
 <Network_Traffic_AP_LAB-eps-converted-to.pdf, id=95, 410.53375pt x 309.155pt>
@@ -527,7 +530,7 @@ File: Network_Traffic_AP_LAB-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Network_Traffic_AP_LAB-eps-converted-to.pdf>
 Package pdftex.def Info: Network_Traffic_AP_LAB-eps-converted-to.pdf used on in
-put line 631.
+put line 632.
 (pdftex.def)             Requested size: 180.60315pt x 136.0003pt.
 Package epstopdf Info: Source file: <Topology_Static.eps>
 (epstopdf)                    date: 2013-07-11 08:57:08
@@ -537,7 +540,7 @@ Package epstopdf Info: Source file: <Topology_Static.eps>
 (epstopdf)                    size: 337094 bytes
 (epstopdf)             Command: <epstopdf --outfile=Topology_Static-eps-convert
 ed-to.pdf Topology_Static.eps>
-(epstopdf)             \includegraphics on input line 638.
+(epstopdf)             \includegraphics on input line 639.
 Package epstopdf Info: Output file is already uptodate.
 
 <Topology_Static-eps-converted-to.pdf, id=96, 494.84875pt x 448.67625pt>
@@ -545,7 +548,7 @@ File: Topology_Static-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Topology_Static-eps-converted-to.pdf>
 Package pdftex.def Info: Topology_Static-eps-converted-to.pdf used on input lin
-e 638.
+e 639.
 (pdftex.def)             Requested size: 206.39685pt x 187.1351pt.
 Package epstopdf Info: Source file: <Competitive_Ratio.eps>
 (epstopdf)                    date: 2013-07-27 19:39:48
@@ -555,7 +558,7 @@ Package epstopdf Info: Source file: <Competitive_Ratio.eps>
 (epstopdf)                    size: 4521 bytes
 (epstopdf)             Command: <epstopdf --outfile=Competitive_Ratio-eps-conve
 rted-to.pdf Competitive_Ratio.eps>
-(epstopdf)             \includegraphics on input line 643.
+(epstopdf)             \includegraphics on input line 644.
 Package epstopdf Info: Output file is already uptodate.
 
 <Competitive_Ratio-eps-converted-to.pdf, id=97, 410.53375pt x 309.155pt>
@@ -563,7 +566,7 @@ File: Competitive_Ratio-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Competitive_Ratio-eps-converted-to.pdf>
 Package pdftex.def Info: Competitive_Ratio-eps-converted-to.pdf used on input l
-ine 643.
+ine 644.
 (pdftex.def)             Requested size: 206.39685pt x 155.42622pt.
  [7 <C:/Users/dllgs/Documents/GitHub/Journal/journal/Topology_Dynamic-eps-conve
 rted-to.pdf> <C:/Users/dllgs/Documents/GitHub/Journal/journal/Topology_Static-e
@@ -586,7 +589,7 @@ Package epstopdf Info: Source file: <topology_testbed.eps>
 (epstopdf)                    size: 41854 bytes
 (epstopdf)             Command: <epstopdf --outfile=topology_testbed-eps-conver
 ted-to.pdf topology_testbed.eps>
-(epstopdf)             \includegraphics on input line 661.
+(epstopdf)             \includegraphics on input line 662.
 Package epstopdf Info: Output file is already uptodate.
 
 <topology_testbed-eps-converted-to.pdf, id=225, 434.62375pt x 324.21124pt>
@@ -594,9 +597,9 @@ File: topology_testbed-eps-converted-to.pdf Graphic file (type pdf)
 
 <use topology_testbed-eps-converted-to.pdf>
 Package pdftex.def Info: topology_testbed-eps-converted-to.pdf used on input li
-ne 661.
+ne 662.
 (pdftex.def)             Requested size: 206.39685pt x 153.9673pt.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 661.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 662.
 
 
 (C:\CTEX\MiKTeX\tex\latex\psnfss\ot1pcr.fd
@@ -610,14 +613,14 @@ Package epstopdf Info: Source file: <testbed.eps>
 (epstopdf)                    size: 15985 bytes
 (epstopdf)             Command: <epstopdf --outfile=testbed-eps-converted-to.pd
 f testbed.eps>
-(epstopdf)             \includegraphics on input line 667.
+(epstopdf)             \includegraphics on input line 668.
 Package epstopdf Info: Output file is already uptodate.
 
 <testbed-eps-converted-to.pdf, id=226, 579.16376pt x 435.6275pt>
 File: testbed-eps-converted-to.pdf Graphic file (type pdf)
 
 <use testbed-eps-converted-to.pdf>
-Package pdftex.def Info: testbed-eps-converted-to.pdf used on input line 667.
+Package pdftex.def Info: testbed-eps-converted-to.pdf used on input line 668.
 (pdftex.def)             Requested size: 206.39685pt x 155.24376pt.
  [9 <C:/Users/dllgs/Documents/GitHub/Journal/journal/Competitive_Ratio-eps-conv
 erted-to.pdf> <C:/Users/dllgs/Documents/GitHub/Journal/journal/topology_testbed
@@ -635,37 +638,35 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[10
-
-] (C:\Users\dllgs\Documents\GitHub\Journal\journal\Infocom2014V3.aux) ) 
+[10] (C:\Users\dllgs\Documents\GitHub\Journal\journal\Infocom2014V3.aux) ) 
 Here is how much of TeX's memory you used:
- 3874 strings out of 495354
- 55919 string characters out of 3183860
- 129558 words of memory out of 3000000
- 6936 multiletter control sequences out of 15000+200000
+ 3877 strings out of 495354
+ 55985 string characters out of 3183860
+ 129570 words of memory out of 3000000
+ 6939 multiletter control sequences out of 15000+200000
  47637 words of font info for 96 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
  42i,18n,24p,1317b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/CTEX
-/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
-:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmmi7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmib10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/c
-mmib7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C
-:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb
-><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/u
-rw/times/utmbi8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/
-MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Infocom2014V3.pdf (10 pages, 813440 bytes).
+{C:/C
+TEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmmib10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextr
+a/cmmib7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb
+><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.
+pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type
+1/urw/times/utmbi8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/CT
+EX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Infocom2014V3.pdf (10 pages, 814183 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

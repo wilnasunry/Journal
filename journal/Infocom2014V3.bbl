@@ -21,6 +21,13 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{alfaqawi2016adaptive}
+M.~I. Alfaqawi, M.~H. Habaebi, M.~U. Siddiqi, M.~R. Islam, S.~Khan, and
+  D.~Datla, ``Adaptive load balancing algorithm for wireless distributed
+  computing networks,'' in \emph{Intelligent Systems Engineering (ICISE), 2016
+  International Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2016, pp. 256--261.
+
 \bibitem{he2010design}
 Y.~He, D.~Perkins, and S.~Velaga, ``Design and implementation of class: A
   cross-layer association scheme for wireless mesh networks,'' in \emph{INFOCOM
@@ -49,6 +56,20 @@ M.~Bredel and M.~Fidler, ``Understanding fairness and its impact on quality of
   service in ieee 802.11,'' in \emph{INFOCOM 2009, IEEE}.\hskip 1em plus 0.5em
   minus 0.4em\relax IEEE, 2009, pp. 1098--1106.
 
+\bibitem{lin2017adaptive}
+C.-Y. Lin, W.-P. Tsai, M.-H. Tsai, and Y.-Z. Cai, ``Adaptive load-balancing
+  scheme through wireless sdn-based association control,'' in \emph{Advanced
+  Information Networking and Applications (AINA), 2017 IEEE 31st International
+  Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2017, pp.
+  546--553.
+
+\bibitem{sang2017client}
+X.~Sang, Q.~Wu, and H.~Li, ``Client-network collaborative load balancing
+  mechanism for wlan based on sdn and 802.11 u,'' in \emph{Wireless
+  Communications and Mobile Computing Conference (IWCMC), 2017 13th
+  International}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2017, pp.
+  506--511.
+
 \bibitem{li2012ap}
 W.~Li, S.~Wang, Y.~Cui, X.~Cheng, R.~Xin, M.~A. Al-Rodhaan, and A.~Al-Dhelaan,
   ``Ap association for proportional fairness in multirate wlans,''
@@ -66,11 +87,11 @@ L.-H. Yen, J.-J. Li, and C.-M. Lin, ``Stability and fairness of ap selection
   Technology}, ser. TON'11.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2011,
   pp. 1150--1160.
 
-\bibitem{Keranidis:2011}
-S.~Keranidis, T.~Korakis, I.~Koutsopoulos, and L.~Tassiulas, ``Contention and
-  traffic load-aware association in ieee 802.11 wlans: Algorithms and
-  implementation,'' in \emph{WiOpt'11}.\hskip 1em plus 0.5em minus 0.4em\relax
-  IEEE, 2011, pp. 334--341.
+\bibitem{lei2017fairness}
+J.~Lei, S.~Yang, and C.~Su, ``Fairness and load balancing optimization via
+  association control in multi-rate wlans,'' in \emph{Computer Science On-line
+  Conference}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2017, pp.
+  263--275.
 
 \bibitem{Papaoulakis:2008}
 N.~Papaoulakis and C.~Z. Patrikakis, ``A proactive, terminal based best access
@@ -98,10 +119,10 @@ Y.~Bejerano, S.-J. Han, and L.~E. Li, ``Fairness and load balancing in wireless
 L.~Erran~Li, P.~Martin, and Y.~Yang~Richard, ``Proportional fairness in
   multi-rate wireless lans,'' in \emph{INFOCOM'08}, 2008, pp. 1004--1012.
 
-\bibitem{Lei:2009}
-X.~Lei, L.~Qun, M.~Weizhen, W.~Jie, and C.~Daoxu, ``Achieving efficiency and
-  fairness for association control in vehicular networks,'' pp. 324 -- 333,
-  Oct. 2009.
+\bibitem{Tang2016Throughput}
+H.~Tang, L.~Yang, J.~Dong, Z.~Ou, Y.~Cui, and J.~Wu, ``Throughput optimization
+  via association control in wireless lans,'' \emph{Mobile Networks and
+  Applications}, vol.~21, no.~3, pp. 453--466, 2016.
 
 \bibitem{gong2012ap}
 D.~Gong and Y.~Yang, ``Ap association in 802.11 n wlans with heterogeneous
